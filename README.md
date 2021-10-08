@@ -53,5 +53,5 @@ Mas informacion acerca de react App [React documentation](https://reactjs.org/).
 
 Mas informacion acerca de styled-components [Styled-components documentation](https://styled-components.com/).
 
-Mas informacion acerca de styled-components [React-Router-Dom documentation](https://reactrouter.com/web/guides/quick-start).
+Mas informacion acerca de react-router-dom [React-Router-Dom documentation](https://reactrouter.com/web/guides/quick-start).
 
