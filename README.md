@@ -4,7 +4,7 @@ este proyecto se realizo con ReactJs [Link del repositorio](https://github.com/A
 
 ## INICO
 
-## Con NPM:
+## Inicio con NPM:
 
 Clonar el repositorio y usar el codigo en el siguiente orden dentro de la consola en la ruta del proyecto
 
@@ -17,7 +17,7 @@ instala todas las dependencias necesarias para el correcto funcionamiento del pr
 al abrir el visual studio code o entorno de desarrollo ejecutar desde la consola el comando 
 luego verificar que este se haya desplegado en la ruta local [http://localhost:3000](http://localhost:3000) 
 
-## Con NPM:
+## Inicio Con Yarn:
 
 Clonar el repositorio y usar el codigo en el siguiente orden dentro de la consola en la ruta del proyecto
 
