@@ -1,3 +1,6 @@
+<img src="https://res.cloudinary.com/df8qzqymf/image/upload/v1633712513/imagen-previa_bfvpvg.png" alt="vista previa"/>
+
+
 # Antes que todo..
 
 este proyecto se realizo con ReactJs [Link del repositorio](https://github.com/AnthonyMerive/prueba-tec).
