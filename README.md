@@ -2,7 +2,7 @@
 
 este proyecto se realizo con ReactJs [Link del repositorio](https://github.com/AnthonyMerive/prueba-tec).
 
-## INICO
+## CRUD en Desarrollo
 
 ## Inicio con NPM:
 
