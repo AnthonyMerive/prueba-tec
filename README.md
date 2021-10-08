@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Antes que todo..
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+este proyecto se realizo con ReactJs [Link del repositorio](https://github.com/AnthonyMerive/prueba-tec).
 
-## Available Scripts
+## INICO
 
-In the project directory, you can run:
+## Con NPM:
 
-### `yarn start`
+Clonar el repositorio y usar el codigo en el siguiente orden dentro de la consola en la ruta del proyecto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### `npm i`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+instala todas las dependencias necesarias para el correcto funcionamiento del proyecto
 
-### `yarn test`
+### `npm star`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+al abrir el visual studio code o entorno de desarrollo ejecutar desde la consola el comando 
+luego verificar que este se haya desplegado en la ruta local [http://localhost:3000](http://localhost:3000) 
 
-### `yarn build`
+## Con NPM:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Clonar el repositorio y usar el codigo en el siguiente orden dentro de la consola en la ruta del proyecto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `yarn add`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+instala todas las dependencias necesarias para el correcto funcionamiento del proyecto
 
-### `yarn eject`
+### `yarn star`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+al abrir el visual studio code o entorno de desarrollo ejecutar desde la consola el comando 
+luego verificar que este se haya desplegado en la ruta local [http://localhost:3000](http://localhost:3000) 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Dependencias usadas:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+si al realizar el yarn add o npm i no se instalaron las dependencias se enlistan a continuacion las dependencias usada
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### `react-router-dom`
 
-## Learn More
+para la instalacion de esta dependencia por separado bastara con ejecutar el comando: "npm i react-router-dom"
+o "yarn add react-router-dom"
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### `styled-components`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+para la instalacion de esta dependencia por separado bastara con ejecutar el comando: "npm i styled-components
+o "yarn add styled-components"
 
-### Code Splitting
+## mayor informacion
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Mas informacion acerca de react App [React documentation](https://reactjs.org/).
 
-### Analyzing the Bundle Size
+Mas informacion acerca de styled-components [Styled-components documentation](https://styled-components.com/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Mas informacion acerca de styled-components [React-Router-Dom documentation](https://reactrouter.com/web/guides/quick-start).
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
